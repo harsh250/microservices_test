@@ -1,0 +1,17 @@
+target
+.idea
+*.iml
+*.log
+.classpath
+.project
+.settings
+.factorypath
+monolith/deployApp.bat
+monolith-proxy/deployApp.bat
+tm-ui-v1/deployApp.bat
+tm-ui-v2/deployApp.bat
+backend-v1/deployApp.bat
+backend-v2/deployApp.bat
+orders-service/deployApp.bat
+load-generation/run.bat
+load-generation/buildContainer.bat
